@@ -1,0 +1,63 @@
+<html>
+  <head>
+    <title>My portfolio</title>
+     <style>
+      *{ font-family: Cabin,Arial; }
+      
+  
+       </style>
+       
+      
+  </head>
+
+  <body style=background-color:Azure>
+    
+     <img src="_XAbj-9g_400x400.jpg" alt="Programmer" height="100" width="150">
+     <n></n>
+     
+    
+
+    <h1 style="font-size:36px;color:Black;">Online Portfolio of my work</h1>
+
+    <h1>About Me</h1>
+    <p style="font-size:26px;color:DarkSlateGray;">This is an example of a paragraph. Paragraphs usually contain more text than headings and aren't used by search engines to structure the content of your webpage.</p>
+
+ <p>
+      This must me the second paragraph
+    </p>
+    <h2>Education</h2>
+    <p>I have Completed Bachelor's Degree in IT specializing with Security from Nelson Mandela University</p>
+    <p>For Network Security Vulnerabilities I have worked with the following tools</p>
+    <ol>
+      <li>Tenable Nessus</li>
+      <li>10 Strike Network Invetory</li>
+      <li>Angry IP Scanner</li>
+      <li>Nmap</li>
+      <li></li>
+      <li></li>
+    </ol>
+    <p>For Endpoint Security I have worked with the following tools</p>
+    <ol>
+      <li>Trellix</li>
+      <li>CrowdStrike</li>
+      <li>Wazu</li>
+    </ol>
+    
+    
+    <h3>Contact me</h3>
+     <a href="mailto:kuhlejobela@gmail.com">Send Mail</a>
+    
+    <h4>Today's date</h4>
+    
+    <h5>Time</h5>
+    <li><a href="https://www.credly.com/users/kuhle-jobela/badges" target="_blanks">Badges</a></li>
+    <li><a href=" https://tryhackme.com/p/kuhle.jobela" target="_blanks">TryHackMe Profile</a></li>
+    
+    
+    <h6>Connect with me</h6>
+    <p>
+        <a href="https://www.linkedin.com/in/kuhle-jobela" target="_blanks">linkedIn</a>
+        <a href="https://www.instagram.com/kuhle_jb" target="_blanks">Instagram</a>
+    </p>
+  </body>
+</html>
